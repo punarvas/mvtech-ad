@@ -1,0 +1,3 @@
+# MVTec Anomaly Detection (MVTec AD) using Vision-Language Models
+
+In this project, I have fine-tuned a SmolVLM-256M from HuggingFace to generate a report on the defect in the industrial products. I used my local NVIDIA RTX 4060 Laptop GPU to fine-tune the VLM instead of using a cloud compute. This project is for my self-education purpose, however can be used as a good starter for your own VLM-based Report Generation Model :)

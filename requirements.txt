@@ -1,0 +1,29 @@
+# VLM fine-tuning
+transformers
+accelerate
+datasets
+peft
+trl
+bitsandbytes
+safetensors
+sentencepiece
+huggingface_hub
+
+# Image processing
+pillow
+opencv-python
+scikit-image
+scipy
+
+# Data processing and evaluation
+numpy
+pandas
+scikit-learn
+matplotlib
+tqdm
+
+# Development and visualization
+jupyterlab
+ipykernel
+gradio
+tensorboard
